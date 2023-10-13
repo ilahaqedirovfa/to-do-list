@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(245, 143, 194);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+input{
+    width: 410px;
+    height: 30px;
+}
+
+button{
+    width: 40px;
+    height: 25px;
+}
+
+.content-div{
+    width: 450px;
+    height: 500px;
+    background-color: rgb(255, 183, 251);
+    margin-top: 10px;
+    font-size: 20px;
+
+}
+
+.input-Button{
+    margin-top: 20px;
+}
+
